@@ -1,0 +1,2 @@
+u_name='Eric'
+print("Hello "+u_name+", would you like to learn some Python today?")
