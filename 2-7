@@ -1,0 +1,15 @@
+famous_person='\t \nAlbert Einstein  \t  \n \n'
+
+print("\""+famous_person+"\"")
+
+#use the lstrip
+f1=famous_person.lstrip()
+print("\""+f1+"\"")
+
+#use rstip()
+f2=famous_person.rstrip()
+print("\""+f2+"\"")
+
+#use strip
+f3=famous_person.strip()
+print("\""+f3+"\"")
