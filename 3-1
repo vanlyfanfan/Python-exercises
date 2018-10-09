@@ -1,0 +1,4 @@
+names=["Lucy","Lily","Jone","Fanny"]
+n=len(names)
+for i in range(0,n):
+	print(names[i])
