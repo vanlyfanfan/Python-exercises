@@ -1,0 +1,8 @@
+names=["Honda Motocycle","BWM car","BWM boat","Benz bike"]
+n=len(names)
+for i in range(0,n):
+	print("I want to own a  "+names[i])
+
+for i in range(0,n):
+	print("\"I want to own a  "+names[i]+"\"")
+	
