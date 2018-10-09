@@ -1,0 +1,11 @@
+u_name='Eric'
+
+#print name with lowercase
+low_name=str.lower(u_name)
+print(low_name)
+#print name with captal letter
+captal_name=str.upper(u_name)
+print(captal_name)
+#print name with first letter captal
+First_cap_name=str.capitalize(u_name)
+print(First_cap_name)
