@@ -1,0 +1,3 @@
+fav_number=6
+message="My favourate number is "+str(fav_number)
+print(message)
